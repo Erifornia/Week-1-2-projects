@@ -1,5 +1,5 @@
 # Jedha Projects
-Python code for weekly projects while studying my Bachelor @Jedha Bootcamp.
+Python code for weekly projects while studying my Bachelor's Degree @Jedha Bootcamp.
 
 **These projects are now outdated and most of the code is to be re-written in a more efficient and mathematically correct way.**
 
